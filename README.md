@@ -1,6 +1,6 @@
-# vue-cli-plugin-custom-tpl
+# vue-cli-plugin-custom-app
 
-[Vue CLI 3.0](https://github.com/vuejs/vue-cli) 自定义模板插件
+[Vue CLI 3.x 4.x](https://github.com/vuejs/vue-cli) 自定义模板插件
 
 ## 特性
 脚手架默认开启如下功能：
